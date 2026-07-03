@@ -1,17 +1,20 @@
 # THE WRATH OF MORRISWORM 404 OG VERSION
 **by Timothy Mills, Thomas Carlsen, and Vincent Gaglione**
 
-This is the version of the game that we demo'd for our FINAL presentation project in our "Into to Game Development course... It was a lot of fun to make! though it is insanely unpolished, and my goal was to make it more fun and enjoyable
-during the summer of 2026. There are many things I wanted to add to it that we didn't have the time to implement.
+This is the version of the game that we demo'd for our FINAL presentation project in our "Into to Game Development course... It was a lot of fun to make! though it is insanely unpolished, as we made the entire thing in a week. my goal is to make it more fun and enjoyable
+during the summer of 2026. There are many things I wanted to add to it that we didn't have the time to implement, such as new enemies, I wanted to finish the ost, etc etc...
 
-Presenting this game was a blast full of laughs because we were the only group that had an opening cutscene, which was an interesting concept in hindsight come to think of it. During that presentation however, we noticed a couple of glitches, or parts where the game was a little too merciless for no reason and without reward for that level of risk...
+Presenting this game was a blast full of laughs because we were the only group that had an opening cutscene, which was an interesting concept in hindsight come to think of it. During that presentation however, we noticed VARIOUS glitches, or parts where the game was a little too merciless without reward for that level of risk...
 
 **there are a lot of things that I want to change in the remaster, that will come out at the end of the summer**
-**for more information, go to https://timcinematicuniverse.com/html/blog.html to check out my blog!
+for more information, go to https://timcinematicuniverse.com/html/blog.html to check out my blog!
+
+
+
 
 # THE DEVS OF MORRISWORM 404 OG VERSION
 
-**for this project, we had to give our group a name... and we came up with "CHROMERUBBLE STUDIOS" ... pretty funny, right? **
+**for this project, we had to give our group a name... and we came up with "CHROMERUBBLE STUDIOS" ... pretty funny, right?**
 
 **Tim** was in charge of sound-design as a whole, I wrote the characters / story, wrote the dialogue, story-boarded the entire intro on a whim / Wrote the entire soundtrack in FL Studio with whatever spare time I had, and aided in the initial programming.
 
