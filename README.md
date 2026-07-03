@@ -10,7 +10,8 @@ Presenting this game was a blast full of laughs because we were the only group t
 **for more information, go to https://timcinematicuniverse.com/html/blog.html to check out my blog!
 
 # THE DEVS OF MORRISWORM 404 OG VERSION
-# ALSO KNOWN AS... CHROMERUBBLE STUDIOS... THIS IS WHAT WE CALLED OURSELVES LOL
+
+**for this project, we had to give our group a name... and we came up with "CHROMERUBBLE STUDIOS" ... pretty funny, right? **
 
 **Tim** was in charge of sound-design as a whole, I wrote the characters / story, wrote the dialogue, story-boarded the entire intro on a whim / Wrote the entire soundtrack in FL Studio with whatever spare time I had, and aided in the initial programming.
 
